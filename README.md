@@ -1,8 +1,18 @@
 #*******Skillrack_Dialy_Challenge3*******
+
+
 #Program to convert python program to c program
+
+
+
   #include <stdio.h>
+
+  
   #include <stdlib.h>
+
+  
   #include <string.h>
+
 
   int main() {
       int num[1001];
@@ -26,5 +36,10 @@
       printf("%d", sum);
     
       return 0;
+
+   
   }
+
+  
 #Skillrack_Dialy_Challenge3
+

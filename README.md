@@ -15,7 +15,10 @@
 
 
   int main() {
+
+  
       int num[1001];
+      
       char str[1001];
     
       fgets(str, sizeof(str), stdin);
